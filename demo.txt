@@ -1,1 +1,1 @@
-Demo text so we can simulate a conflict
+Demo text so we can simulate a conflict. This text here will be commited through the browser so we can achieve the demo conflict.
