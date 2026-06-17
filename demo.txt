@@ -1,2 +1,4 @@
 Demo text so we can simulate a conflict. This text is written by the mac.
 Demo text so we can simulate a conflict. This text here will be commited through the browser so we can achieve the demo conflict.
+
+This is the title here. So it is gonna be used to use the new branch.
